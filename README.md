@@ -1,4 +1,5 @@
 # Marketing_-_Finance
+NPV DIFINITION
 Net Present Value (NPV) looks to assess the profitability of an
 investment on the basis that the money in the future is not worth
 the same as the money today. Money loses value over time due to
